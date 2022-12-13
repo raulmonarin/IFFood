@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">IF-Fuud</string>
+    <string name="txt_edt_email">E-Mail</string>
+    <string name="txt_edt_senha">Senha</string>
+    <string name="txt_btn_login">Entrar</string>
+    <string name="txt_enter">Entrar</string>
+
+    <string name="toggle_abre">Abrir</string>
+    <string name="toggle_fecha">Fechar</string>
+
+    <string name="perfil_titulo">Perfil</string>
+    <string name="cardapio_titulo">Cardapio</string>
+    <string name="pagamento_titulo">Pagamento</string>
+    <string name="msg_erro_password">A senha tem que possuir no mínimo 8 caracteres.</string>
+
+
+
+
+    <array name="Funcao">
+        <item>Você é:</item>
+        <item>Professor</item>
+        <item>Aluno</item>
+        <item>Funcionario</item>
+    </array>
+
+    <array name="Pagamentos">
+        <item>Dinheiro</item>
+        <item>Cartão de Crédito</item>
+        <item>Cartão de Débito</item>
+        <item>Pix</item>
+    </array>
+</resources>
